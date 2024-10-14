@@ -1,0 +1,30 @@
+#container1{
+	background-color: #dbb2d0;
+	text-align: center;
+}
+
+.container2{
+	background-color: #9ba2ab;
+	width: 270px;
+	padding: 40px;
+	margin: auto;
+	box-shadow: 2px 2px 15px rgba(0,0,0,0.8);
+	}
+
+body{
+	background-image: url('file:///Users/rownielyumul/Desktop/9T/ICT%20PROJ%20Q1/5.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#submit{
+	border-radius: 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+label{
+	font-size: 15px; 
+	font-family: Georgia;
+}
